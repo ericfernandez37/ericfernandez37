@@ -1,9 +1,8 @@
 ### Hi there 👋
 
+Hola, 
+Soy Eric Fernandez Lozano, actualmente estoy cursando el segundo año del ciclo superior DAW
+puedes contactar conmigo aqui:📫 efernandezl37@cepnet.net .
 
-**ericfernandez37/ericfernandez37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- 🔭 I’m currently working on programing
-- 🌱 I’m currently learning DAW2
-- 📫 How to reach me: efernandezl37@cepnet.net
 
